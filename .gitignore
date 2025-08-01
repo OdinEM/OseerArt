@@ -36,3 +36,6 @@ DerivedData/
 
 # Android
 *.keystore
+
+# Ignore Vuforia Packages
+Packages/com.ptc.vuforia.engine-*.tgz
