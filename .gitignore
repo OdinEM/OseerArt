@@ -40,3 +40,4 @@ DerivedData/
 # Ignore Vuforia Packages
 Packages/com.ptc.vuforia.engine-*.tgz
 Packages/com.ptc.vuforia.engine-*.tgz
+Packages/com.ptc.vuforia.engine-11.3.4.tgz
