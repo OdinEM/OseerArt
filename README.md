@@ -1,5 +1,8 @@
 Oseer Art Therapy – AR Sketch Visualizer
 
+Video Demonstration link: https://drive.google.com/drive/folders/1jcUpMNCT7HARbxf-y0XBVfkZBd0e5_MB?usp=drive_link
+
+
 An Augmented Reality (AR) drawing assistant designed for the deaf and hard-of-hearing community, allowing users to trace and sketch images on paper using their smartphone camera. Inspired by the Da Vinci Eye app, this project integrates Vuforia AR and Unity to make art education and therapy more accessible.
 
 Project Overview
